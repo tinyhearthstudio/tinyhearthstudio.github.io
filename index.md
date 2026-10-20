@@ -21,6 +21,19 @@ Grandma Puffin left you the keys to a tiny bakery on a windy cliff. Bake fresh b
 
 ---
 
+<img src="reefbloom-icon.png" alt="Reefbloom icon" width="96" align="left" style="margin-right:16px;border-radius:20px">
+
+### Reefbloom
+*Coming soon to Google Play*
+
+Clear blocks to rescue sea creatures and grow a coral reef of your own. A calm block puzzle with a new goal every level and a Daily Tide puzzle. Plays offline.
+
+[Privacy policy](reefbloom-privacy.html) · Support: tinyhearthstudio.games@gmail.com
+
+<br clear="left">
+
+---
+
 ## What we care about
 
 - **Cozy first.** Relaxing play and calm progress, at your own pace.
