@@ -5,17 +5,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Puffin Bakehouse Privacy Policy</title>
 <style>
-  :root { --ink: #3b2a24; --bg: #fffaf3; --accent: #2a9d8f; }
-  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 system-ui, "Segoe UI", Roboto, sans-serif; }
-  main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+  /* Shared Tinyhearth Studio style for every privacy page */
+  :root { --ink: #1f2d3d; --muted: #5b6b7c; --bg: #eef4fa; --card: #ffffff; --accent: #1f7a8c; --line: #d9e4ee; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.65 system-ui, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 720px; margin: 24px auto; padding: 28px 28px 36px; background: var(--card); border: 1px solid var(--line); border-radius: 18px; box-shadow: 0 6px 24px rgba(31, 45, 61, .06); }
+  @media (max-width: 760px) { main { margin: 12px; padding: 20px 18px 28px; } }
+  .studio { display: inline-block; margin-bottom: 14px; font-size: 14px; font-weight: 600; color: var(--accent); text-decoration: none; }
   h1 { font-size: 28px; margin: 0 0 4px; }
   h2 { font-size: 19px; margin: 28px 0 6px; color: var(--accent); }
   a { color: var(--accent); }
-  .muted { opacity: .7; font-size: 14px; }
+  .muted { color: var(--muted); font-size: 14px; }
+  .foot { margin-top: 32px; padding-top: 14px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
 </style>
 </head>
 <body>
 <main>
+<a class="studio" href="./">← Tinyhearth Studio</a>
 <h1>Puffin Bakehouse Privacy Policy</h1>
 <p class="muted">Last updated: 25 October 2026. Developer: Tinyhearth Studio. Contact: <a href="mailto:tinyhearthstudio.games@gmail.com">tinyhearthstudio.games@gmail.com</a>.</p>
 
@@ -64,6 +69,7 @@
 
 <h2>Contact</h2>
 <p>Questions or requests: <a href="mailto:tinyhearthstudio.games@gmail.com">tinyhearthstudio.games@gmail.com</a>.</p>
+<p class="foot">© 2026 Tinyhearth Studio · <a href="./">All our games</a></p>
 </main>
 </body>
 </html>
