@@ -31,7 +31,8 @@
       "name": "Nudgeville",
       "tagline": "One nudge sets off a chain reaction",
       "color": "#ff8a3d",
-      "status": "soon"
+      "status": "soon",
+      "icon": "icons/nudgeville.png"
     }
   ]
 }
