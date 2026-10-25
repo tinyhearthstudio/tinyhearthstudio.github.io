@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updated": "2026-10-25",
+  "games": [
+    {
+      "id": "com.tinyhearthstudio.puffinbakehouse",
+      "name": "Puffin Bakehouse",
+      "tagline": "Run a cozy cliffside bakery",
+      "icon": "icons/puffin-bakehouse.png",
+      "color": "#f2a65a",
+      "status": "soon"
+    },
+    {
+      "id": "com.tinyhearthstudio.reefbloom",
+      "name": "Reefbloom",
+      "tagline": "Block puzzle under the sea",
+      "icon": "icons/reefbloom.png",
+      "color": "#2bb3c0",
+      "status": "soon"
+    },
+    {
+      "id": "com.tinyhearthstudio.glowloop",
+      "name": "Glowloop",
+      "tagline": "Draw loops to catch fireflies",
+      "icon": "icons/glowloop.png",
+      "color": "#ffd27a",
+      "status": "soon"
+    },
+    {
+      "id": "com.tinyhearthstudio.nudgeville",
+      "name": "Nudgeville",
+      "tagline": "One nudge sets off a chain reaction",
+      "color": "#ff8a3d",
+      "status": "soon"
+    }
+  ]
+}
