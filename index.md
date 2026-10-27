@@ -60,6 +60,19 @@ Watch the mishap, rewind time, then make one nudge and a chain reaction rescues 
 
 ---
 
+<img src="gearwick-icon.png" alt="Gearwick: Puzzle Lab icon" width="96" align="left" style="margin-right:16px;border-radius:20px">
+
+### Gearwick
+*Coming soon to Google Play*
+
+Pull pins, open valves, flip levers and drop parts to fix the town's broken machines. A physics puzzle with 60 levels in 3 worlds, a daily puzzle and gentle hints. Plays offline.
+
+[Privacy policy](gearwick-privacy.html) · Support: tinyhearthstudio.games@gmail.com
+
+<br clear="left">
+
+---
+
 ## What we care about
 
 - **Cozy first.** Relaxing play and calm progress, at your own pace.

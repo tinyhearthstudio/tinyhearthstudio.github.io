@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-25",
+  "updated": "2026-10-27",
   "games": [
     {
       "id": "com.tinyhearthstudio.puffinbakehouse",
@@ -33,6 +33,14 @@
       "color": "#ff8a3d",
       "status": "soon",
       "icon": "icons/nudgeville.png"
+    },
+    {
+      "id": "com.tinyhearthstudio.gearwick",
+      "name": "Gearwick",
+      "tagline": "Pull pins, fix the town's machines",
+      "icon": "icons/gearwick.png",
+      "color": "#d9a441",
+      "status": "soon"
     }
   ]
 }
