@@ -1,8 +1,10 @@
+<p align="center"><img src="logo-horizontal.png" alt="Tinyhearth Studio logo" width="360"></p>
+
 # Tinyhearth Studio
 
-**Small, cozy games for slow, happy moments.**
+**Warm games for happy moments.**
 
-Tinyhearth Studio is a small family indie studio from India. We make relaxing, casual mobile games that are easy to pick up, kind to your time and nice to come back to.
+Tinyhearth Studio is an independent game studio. We make warm, beautiful mobile games that are easy to pick up, kind to your time and a joy to come back to, for players all around the world.
 
 ---
 
