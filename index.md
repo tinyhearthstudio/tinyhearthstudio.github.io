@@ -75,45 +75,6 @@ Pull pins, open valves, flip levers and drop parts to fix the town's broken mach
 
 ---
 
-<img src="inkies-party-icon.png" alt="Inkies Party icon" width="96" align="left" style="margin-right:16px;border-radius:20px">
-
-### Inkies Party
-*Coming soon to Google Play*
-
-Grab a friend and share one phone: 25 quick one-button party games drawn in ink on notebook paper, for 1 to 4 players. Bots fill the empty seats, and there's a solo ladder and a daily challenge too. Plays offline.
-
-[Privacy policy](inkies-party-privacy.html) · Support: tinyhearthstudio.games@gmail.com
-
-<br clear="left">
-
----
-
-<img src="yayland-icon.png" alt="Yayland icon" width="96" align="left" style="margin-right:16px;border-radius:20px">
-
-### Yayland
-*Coming soon to Google Play*
-
-Five-minute party shows: 14 quick mini-games, a podium at the end, and your own Dice Island to build between matches. Play with friends on one phone, against bots, or against your friends' ghost runs.
-
-[Privacy policy](yayland-privacy.html) · Support: tinyhearthstudio.games@gmail.com
-
-<br clear="left">
-
----
-
-<img src="embertrail-icon.png" alt="Embertrail icon" width="96" align="left" style="margin-right:16px;border-radius:20px">
-
-### Embertrail
-*Coming soon to Google Play*
-
-A neon arcade chase: carry embers home one at a time while echoes of your own past hunt you through the walls. 60 levels, and a new daily run every day that's the same for everyone.
-
-[Privacy policy](embertrail-privacy.html) · Support: tinyhearthstudio.games@gmail.com
-
-<br clear="left">
-
----
-
 ## What we care about
 
 - **Cozy first.** Relaxing play and calm progress, at your own pace.
