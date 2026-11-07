@@ -15,7 +15,7 @@ Tinyhearth Studio is an independent game studio. We make warm, beautiful mobile 
 ### Puffin Bakehouse
 *Coming soon to Google Play*
 
-Grandma Puffin left you the keys to a tiny bakery on a windy cliff. Bake fresh bread, serve a line of hungry animal customers and grow her little shop into the coziest bakery in town. Plays offline.
+Grandma Puffin left you the keys to a tiny bakery on a windy cliff. Bake fresh bread, serve a line of hungry animal customers and grow her little shop into a chain of eight cozy shops, all the way to a diner in space. Plays offline.
 
 [Privacy policy](puffin-bakehouse-privacy.html) · Support: tinyhearthstudio.games@gmail.com
 
@@ -41,7 +41,7 @@ Clear blocks to rescue sea creatures and grow a coral reef of your own. A calm b
 ### Glowloop
 *Coming soon to Google Play*
 
-Draw loops of light to catch fireflies under a starry sky. Mix colours to discover 120 firefly species, relight 10 night realms and grow your own Night Garden. Plays offline.
+Draw loops of light to catch fireflies under a starry sky. Mix colours to discover 120 firefly species, relight 300 levels across 10 night realms and grow your own Night Garden. Plays offline.
 
 [Privacy policy](glowloop-privacy.html) · Support: tinyhearthstudio.games@gmail.com
 
@@ -54,7 +54,7 @@ Draw loops of light to catch fireflies under a starry sky. Mix colours to discov
 ### Nudgeville
 *Coming soon to Google Play*
 
-Watch the mishap, rewind time, then make one nudge and a chain reaction rescues an animal friend. A cute physics puzzle with 120 hand-checked levels and a daily puzzle. Plays offline.
+Watch the mishap, rewind time, then make one nudge and a chain reaction rescues an animal friend. A cute physics puzzle with 120 hand-checked levels in 6 worlds and a daily puzzle. Plays offline.
 
 [Privacy policy](nudgeville-privacy.html) · Support: tinyhearthstudio.games@gmail.com
 
