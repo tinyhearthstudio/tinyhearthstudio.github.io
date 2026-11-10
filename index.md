@@ -13,7 +13,7 @@ Tinyhearth Studio is an independent game studio. We make warm, beautiful mobile 
 <img src="puffin-bakehouse-icon.png" alt="Puffin Bakehouse icon" width="96" align="left" style="margin-right:16px;border-radius:20px">
 
 ### Puffin Bakehouse
-*Coming soon to Google Play*
+**[Get it on Google Play](https://play.google.com/store/apps/details?id=com.tinyhearthstudio.puffinbakehouse)**
 
 Grandma Puffin left you the keys to a tiny bakery on a windy cliff. Bake fresh bread, serve a line of hungry animal customers and grow her little shop into a chain of eight cozy shops, all the way to a diner in space. Plays offline.
 
@@ -26,7 +26,7 @@ Grandma Puffin left you the keys to a tiny bakery on a windy cliff. Bake fresh b
 <img src="reefbloom-icon.png" alt="Reefbloom icon" width="96" align="left" style="margin-right:16px;border-radius:20px">
 
 ### Reefbloom
-*Coming soon to Google Play*
+**[Get it on Google Play](https://play.google.com/store/apps/details?id=com.tinyhearthstudio.reefbloom)**
 
 Clear blocks to rescue sea creatures and grow a coral reef of your own. A calm block puzzle with a new goal every level and a Daily Tide puzzle. Plays offline.
 

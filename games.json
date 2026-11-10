@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-27",
+  "updated": "2026-11-10",
   "games": [
     {
       "id": "com.tinyhearthstudio.puffinbakehouse",
@@ -8,7 +8,7 @@
       "tagline": "Run a cozy cliffside bakery",
       "icon": "icons/puffin-bakehouse.png",
       "color": "#f2a65a",
-      "status": "soon"
+      "status": "live"
     },
     {
       "id": "com.tinyhearthstudio.reefbloom",
@@ -16,7 +16,7 @@
       "tagline": "Block puzzle under the sea",
       "icon": "icons/reefbloom.png",
       "color": "#2bb3c0",
-      "status": "soon"
+      "status": "live"
     },
     {
       "id": "com.tinyhearthstudio.glowloop",
