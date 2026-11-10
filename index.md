@@ -75,6 +75,19 @@ Pull pins, open valves, flip levers and drop parts to fix the town's broken mach
 
 ---
 
+<img src="wobble-courier-icon.png" alt="Wobble Courier icon" width="96" align="left" style="margin-right:16px;border-radius:20px">
+
+### Wobble Courier
+*Coming soon to Google Play*
+
+Push a cart piled high with fragile treasures down a winding road. Anything that touches the ground smashes, and you're paid only for what arrives in one piece. A 3D physics delivery game with 120 levels in 6 districts.
+
+[Privacy policy](wobble-courier-privacy.html) · Support: tinyhearthstudio.games@gmail.com
+
+<br clear="left">
+
+---
+
 ## What we care about
 
 - **Cozy first.** Relaxing play and calm progress, at your own pace.

@@ -41,6 +41,14 @@
       "icon": "icons/gearwick.png",
       "color": "#d9a441",
       "status": "soon"
+    },
+    {
+      "id": "com.tinyhearthstudio.wobblecourier",
+      "name": "Wobble Courier",
+      "tagline": "Deliver fragile treasures in 3D",
+      "icon": "icons/wobble-courier.png",
+      "color": "#5b5fc7",
+      "status": "soon"
     }
   ]
 }
