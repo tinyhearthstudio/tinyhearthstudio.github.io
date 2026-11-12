@@ -24,14 +24,14 @@
       "tagline": "Draw loops to catch fireflies",
       "icon": "icons/glowloop.png",
       "color": "#ffd27a",
-      "status": "soon"
+      "status": "live"
     },
     {
       "id": "com.tinyhearthstudio.nudgeville",
       "name": "Nudgeville",
       "tagline": "One nudge sets off a chain reaction",
       "color": "#ff8a3d",
-      "status": "soon",
+      "status": "live",
       "icon": "icons/nudgeville.png"
     },
     {

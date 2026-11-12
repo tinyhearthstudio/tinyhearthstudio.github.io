@@ -15,7 +15,7 @@ Tinyhearth Studio is an independent game studio. We make warm, beautiful mobile 
 ### Puffin Bakehouse
 **[Get it on Google Play](https://play.google.com/store/apps/details?id=com.tinyhearthstudio.puffinbakehouse)**
 
-Grandma Puffin left you the keys to a tiny bakery on a windy cliff. Bake fresh bread, serve a line of hungry animal customers and grow her little shop into a chain of eight cozy shops, all the way to a diner in space. Plays offline.
+Grandma Puffin left you the keys to a tiny bakery on a windy cliff. Bake fresh bread, serve a line of hungry animal customers and grow her little shop into a chain of ten cozy shops, all the way to a diner in space. Plays offline.
 
 [Privacy policy](puffin-bakehouse-privacy.html) · Support: tinyhearthstudio.games@gmail.com
 
@@ -39,7 +39,7 @@ Clear blocks to rescue sea creatures and grow a coral reef of your own. A calm b
 <img src="glowloop-icon.png" alt="Glowloop icon" width="96" align="left" style="margin-right:16px;border-radius:20px">
 
 ### Glowloop
-*Coming soon to Google Play*
+**[Get it on Google Play](https://play.google.com/store/apps/details?id=com.tinyhearthstudio.glowloop)**
 
 Draw loops of light to catch fireflies under a starry sky. Mix colours to discover 120 firefly species, relight 300 levels across 10 night realms and grow your own Night Garden. Plays offline.
 
@@ -52,7 +52,7 @@ Draw loops of light to catch fireflies under a starry sky. Mix colours to discov
 <img src="nudgeville-icon.png" alt="Nudgeville icon" width="96" align="left" style="margin-right:16px;border-radius:20px">
 
 ### Nudgeville
-*Coming soon to Google Play*
+**[Get it on Google Play](https://play.google.com/store/apps/details?id=com.tinyhearthstudio.nudgeville)**
 
 Watch the mishap, rewind time, then make one nudge and a chain reaction rescues an animal friend. A cute physics puzzle with 120 hand-checked levels in 6 worlds and a daily puzzle. Plays offline.
 
