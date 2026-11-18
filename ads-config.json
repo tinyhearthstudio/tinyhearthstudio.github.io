@@ -2,7 +2,6 @@
   "version": 1,
   "updated": "2026-11-18",
   "testAds": {
-    "gearwick": { "fromVersionCode": 1 },
     "wobblecourier": { "fromVersionCode": 1 }
   }
 }
