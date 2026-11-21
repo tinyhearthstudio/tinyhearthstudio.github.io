@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "updated": "2026-11-21",
+  "games": {
+    "puffinbakehouse": {
+      "play": { "latestVersionCode": 19, "minVersionCode": 0 }
+    }
+  }
+}
