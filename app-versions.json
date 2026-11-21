@@ -2,8 +2,10 @@
   "version": 1,
   "updated": "2026-11-21",
   "games": {
-    "puffinbakehouse": {
-      "play": { "latestVersionCode": 19, "minVersionCode": 0 }
-    }
+    "puffinbakehouse": { "play": { "latestVersionCode": 19, "minVersionCode": 0 } },
+    "reefbloom":       { "play": { "latestVersionCode": 9,  "minVersionCode": 0 } },
+    "glowloop":        { "play": { "latestVersionCode": 12, "minVersionCode": 0 } },
+    "nudgeville":      { "play": { "latestVersionCode": 9,  "minVersionCode": 0 } },
+    "gearwick":        { "play": { "latestVersionCode": 6,  "minVersionCode": 0 } }
   }
 }
